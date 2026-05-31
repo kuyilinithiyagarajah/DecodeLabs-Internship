@@ -43,7 +43,7 @@ Each project sharpens real-world security skills — one milestone at a time. �
 | # | 🔐 Project | 🛠️ Skills | 📌 Status |
 |---|-----------|-----------|----------|
 | 01 | [Password Strength Checker](./project-1-password-checker) | Python, String Handling, Security Logic | ✅ Completed |
-| 02 | Coming Soon | To be announced | 🔒 Locked |
+| 02 | [Caesar Cipher](./project-2-caesar-cipher) | Python, Encryption, Caesar Cipher | ✅ Completed |
 | 03 | Coming Soon | To be announced | 🔒 Locked |
 | 04 | Coming Soon | To be announced | 🔒 Locked |
 
