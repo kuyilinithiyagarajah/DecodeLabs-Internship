@@ -45,7 +45,7 @@ Each project sharpens real-world security skills — one milestone at a time. �
 | 01 | [Password Strength Checker](./project-1-password-checker) | Python, String Handling, Security Logic | ✅ Completed |
 | 02 | [Caesar Cipher](./project-2-caesar-cipher) | Python, Encryption, Caesar Cipher | ✅ Completed |
 | 03 | [Phishing Awareness Analysis](project-3-phishing-analysis/README.md) | Threat Analysis, Social Engineering, Email Header Inspection | ✅ Completed |
-| 04 | Coming Soon | To be announced | 🔒 Locked |
+| 04 | [System Vulnerability Audit](./project-4-vulnerability-audit) | Linux Hardening, CVSS Risk Rating, Blue Team Auditing | ✅ Completed |
 
 ---
 
@@ -53,8 +53,8 @@ Each project sharpens real-world security skills — one milestone at a time. �
 ```
 Project 1  ████████████████████  ✅ Done
 Project 2  ████████████████████  ✅ Done
-Project 2  ████████████████████  ✅ Done
-Project 4  ░░░░░░░░░░░░░░░░░░░░  🔒 Locked
+Project 3  ████████████████████  ✅ Done
+Project 4  ████████████████████  ✅ Done
 ```
 
 ---
